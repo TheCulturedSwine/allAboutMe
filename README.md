@@ -3,10 +3,10 @@
 <h2>👨‍💻 Home Network Development Projects:</h2>
 
 
-  - [TrueNas Core Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [NextCloud File Management and Collaboration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Wazuh SIEM](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Network Wide Pi-Hole Implementation](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [TrueNas Core Home Lab]
+  - [NextCloud File Management and Collaboration]
+  - [Wazuh SIEM]
+  - [Network Wide Pi-Hole Implementation]
     
 <h2>🔐 Cybersecurity Projects </h2>
 
