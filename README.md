@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andrei! <br/><a>Networking </a>& Cybersecurity</a> <a> Tinkerer</a></h1>
 
-<h2>👨‍💻 Home Network Development Projects:</h2>
+<h2>👨‍💻Home Network Development Projects:</h2>
 
 
   - [TrueNas Core Home Lab]
